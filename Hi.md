@@ -1,2 +1,0 @@
-# Joby
-Job portal.
